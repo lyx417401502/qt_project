@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>png/beep_no.png</file>
+        <file>png/beep_ok.png</file>
+        <file>png/bg3.png</file>
+        <file>png/fans_no .png</file>
+        <file>png/fans_ok.png</file>
+        <file>png/humi_no.png</file>
+        <file>png/humi_ok.png</file>
+        <file>png/tem_no.png</file>
+        <file>png/tem_ok.png</file>
+        <file>png/water_0.png</file>
+        <file>png/water_20.png</file>
+        <file>png/water_50.png</file>
+        <file>png/water_100.png</file>
+        <file>png/water.png</file>
+        <file>png/humi_char.png</file>
+        <file>png/tem_char.png</file>
+    </qresource>
+</RCC>
